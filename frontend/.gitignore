@@ -9,6 +9,8 @@ node_modules/
 # Env files
 .env
 
+*.logs
+
 # Build output
 dist/
 uploads/
